@@ -1,0 +1,6 @@
+Para executar o programa, execute via terminal o seguinte comando:
+java -jar lfa.exe
+
+
+Observação:
+No relatório estão as demais descrições para inserção dos dados no programa.
